@@ -42,39 +42,40 @@
 
 <br/>
 
-## 🎮 About
+## 🎮 About the Game
 
-**Glass Velocity** is a fast-paced arcade shooter where precision meets destruction. Blast through glass obstacles, manage your limited ball count, and reach new milestones in an infinite, high-velocity environment.
+**Glass Velocity** is an intense, physics-based arcade experience. Navigate through a cosmic void, shattering glass obstacles to maintain your momentum. Precision is everything—one missed shot could be the end of your run.
 
 ---
 
-## 🕹️ Mechanics
+## 🕹️ Game Features
 
-| Mechanic | Description |
+| Feature | Description |
 |----------|-------------|
-| 🎯 **Precision** | Tap to shoot and shatter glass barriers with realistic physics |
-| 💎 **Economy** | Collect coins to unlock premium skins and power-ups |
-| 🛡️ **Survival** | Use Shields and Magnets to extend your run and maximize score |
+| 🎯 **Skill-Based Combat** | Tap to launch projectiles and clear your path. |
+| 💎 **In-Game Economy** | Collect coins to purchase powerful upgrades. |
+| 🚀 **Progression** | Push past the 500m milestone and climb the leaderboard. |
+| 🎨 **Customization** | Unlock premium skins like **Neon Blue**, **Fire Red**, and **Gold Elite**. |
 
 ---
 
-## 🛠️ Technical Overview
+## ⚡ Power-Ups
 
-| Component | Detail |
-|-----------|--------|
-| ⚙️ **Engine** | Java & XML / Android Studio |
-| 🛰️ **Monetization** | Manual Waterfall (AdMob, Unity Ads, Start.io) |
-| 📶 **API Level** | Target SDK 34 (Android 14) |
+* **🧲 Magnet Pack:** Automatically pull coins toward you while you focus on shooting.
+* **🛡️ Shield Pack:** Block obstacles and survive collisions to keep your streak alive.
+* **🔋 Starter/Mega Packs:** Boost your starting ammunition for a massive head start.
 
 ---
 
 <div align="center">
 
-## 📲 Quick Install Guide
+## 📲 How to Install
 
-1. Download the **APK** using the button above.
-2. Open the file on your **Android device**.
-3. Enable **"Install from Unknown Sources"** if prompted.
-4. Launch **Glass Velocity** and start breaking!
+1. Download the **APK** using the blue link above.
+2. Tap the file in your downloads folder to open it.
+3. Allow **"Install from Unknown Sources"** in your phone settings.
+4. Open the game and hit **PLAY** to start your mission!
+
+### Created by **Lihka Games** 🎮
 
 </div>
